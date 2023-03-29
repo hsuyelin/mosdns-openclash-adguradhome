@@ -1,5 +1,13 @@
 # 教程来自：https://songchenwen.com/tproxy-split-by-dns 大佬，这里只是做记录，也是自己探索配置的过程
 
+本文中用到版本如下：
+
+| 插件名称       | 版本号 |
+| :---------: | :--: |
+| MosDNS     |  v4.5.3  | 
+| AdGuardHome   |  v0.107.26  | 
+| OpenClash |  v0.45.103-beta  | 
+
 # OpenClash
 
 ## 1. 插件设置 - 模式设置 - 运行模式： 切换到 Fake-IP（增强）模式
