@@ -21,19 +21,19 @@
 ## 5. 插件设置 -> 开发者选项里，我们自定义一下 iptables 规则
 
 ![openclash_5](pic/openclash_5.png)
-[填写到复写设置-开发者选项里](file:///files/openclash_developer.config)
+[填写到复写设置-开发者选项里](https://github.com/hsuyelin/mosdns-openclash-adguradhome/blob/main/files/openclash_developer.config)
 
 # MosDNS
 
 ## 1. 新增文件在 /etc/mosdns/rule/ 下，并赋予相关权限
 
 ![mosdns_1](pic/mosdns_1.png)
-[geoip2ipset.sh](file:///files/geoip2ipset.sh)
+[geoip2ipset.sh](https://github.com/hsuyelin/mosdns-openclash-adguradhome/blob/main/files/geoip2ipset.sh)
 
 ## 2. 选自定义配置文件，取消 DNS 转发的勾，然后我就直接贴配置了，注意 Clash DNS 端口要改成你自己在 OpenClash 里的配置，LAN IP-CIDR 也要改成你自己的内网配置，这里 mosdns 监听了 5335 端口。我的 Clash DNS 端口：7874，LAN IP-CIDR：192.168.88.1
 
 ![mosdns_2](pic/mosdns_2.png)
-[填写到自定义规则列表-自定义配置里](file:///files/mosdns.config)
+[填写到自定义规则列表-自定义配置里](https://github.com/hsuyelin/mosdns-openclash-adguradhome/blob/main/files/mosdns.config)
 
 # ADGuardHome
 
