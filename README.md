@@ -10,6 +10,7 @@
 ## 3. 插件设置 - 流量控制 - 绕过中国大陆 IP 取消勾选
 ## 4. 插件设置 - 流量控制 - 仅允许内网 开启
 
+![openclash_0](pic/openclash_0.png)
 ![openclash_2](pic/openclash_2.png)
 ![openclash_3](pic/openclash_3.png)
 
@@ -24,7 +25,7 @@
 
 ## 10. 插件设置 - GEO 数据库订阅 把 GeoIP Dat 和 GeoSite 这两个库的自动更新打开，都选 Loyalsoldier 的版本，这个是用来给 mosdns 用的。
 
-![openclash_4_2](pic/openclash_4_0.png)
+![openclash_4_0](pic/openclash_4_0.png)
 
 ## 11. 插件设置 -> 开发者选项里，我们自定义一下 iptables 规则
 
