@@ -1,3 +1,5 @@
+# 教程来自：https://songchenwen.com/tproxy-split-by-dns 大佬，这里只是做记录，也是自己探索配置的过程
+
 # OpenClash
 
 ## 1. 运行模式切换到 Fake-IP 增强模式
